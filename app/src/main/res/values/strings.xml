@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Scan Phone</string>
+    <string name="notification_listener_label">Scan Phone notification capture</string>
+</resources>
